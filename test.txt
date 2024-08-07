@@ -14,5 +14,5 @@ rebase3
 rebase4
 rebase5
 
-revert1
-revert2
+
+revert
