@@ -1,6 +1,10 @@
 tmp
 some code
 
+<<<<<<< HEAD
 problem2
 
 br11
+=======
+br21
+>>>>>>> br21
