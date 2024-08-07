@@ -6,7 +6,7 @@ problem2
 merge1
 merge2
 
-main
+main <-> rebase
 
 rebase1
 rebase2
