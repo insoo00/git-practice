@@ -3,6 +3,7 @@ branch: rebase
 something changes in rebase
 
 edit1
+edit2
 
 edit3
 edit4
