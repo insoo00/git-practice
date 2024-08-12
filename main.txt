@@ -5,3 +5,5 @@ branch: main
 something changes in local
 
 something changes in remote
+
+Use git pull for auto-merge
