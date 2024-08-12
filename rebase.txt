@@ -3,3 +3,4 @@ branch: rebase
 something changes in rebase
 
 edit3
+edit4
