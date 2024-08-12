@@ -7,3 +7,5 @@ something changes in local
 something changes in remote
 
 Use git pull for auto-merge
+
+Use git fetch for manual-merge
